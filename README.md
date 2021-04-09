@@ -2,7 +2,7 @@
 Module 7 Analysis
 
 # Project Overview 
-For this project, I am a data engineer for Pewlett Hackard and i'm tasked with researching employees who started at the company in the 1980's and how many of them are still employed to get a sense of who will retire in the coming years. I've created an ERD to hold and join data within CSV's, imported the CSV's into a SQL database, and looked closely at .....
+For this project, I am a data engineer for Pewlett Hackard and i'm tasked with researching employees who started at the company in the 1980's and how many of them are still employed to get a sense of who will retire in the coming years. I've created an Entity Relationship Diagram to hold and join data within CSV's, imported the CSV's into a SQL database, and looked closely at .....
 
 
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
@@ -27,5 +27,8 @@ Upon removing the ninth grade data there showed to be little to no effect on the
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+## Entity Relationship Diagram:** 
+
 
 
