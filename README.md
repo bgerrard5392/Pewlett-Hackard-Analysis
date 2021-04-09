@@ -8,7 +8,8 @@ who will be retiring in the next couple
 
 
 ## Results
-*Retiring Titles*
+**Retiring Titles**
+
 Out of the 300,000 employees at Pewlett Hackard, 90,398 (30.13%) are eligible for retirement packages which is roughly 1/3 of the total FTE. Within the 90,398 that are eligible for retirement packages, 29,415 (32.2%) are Senior Engineers and 28,254 (31.26%) are Senior Staffers. Below is a breakdown of the other retiring titles that I queried. 
 
 ![retiring_titles_picture](https://user-images.githubusercontent.com/75700317/114116710-25762600-98b3-11eb-8e24-871ecfc3fd73.png)
@@ -28,10 +29,10 @@ Upon removing the ninth grade data there showed to be little to no effect on the
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-*How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
+**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 
 
-*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*
+**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 
 
 
