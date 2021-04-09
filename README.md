@@ -10,9 +10,9 @@ who will be retiring in the next couple
 ## Results
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-Out of the 300,000 employees at Pewlett Hackard, 90,398 (30.13%) are eligible for retirement packages which is roughly 1/3 of the total FTE. 
+Out of the 300,000 employees at Pewlett Hackard, 90,398 (30.13%) are eligible for retirement packages which is roughly 1/3 of the total FTE. Within the 90,398 that are eligible for retirement packages, 29,415 (32.2%) are Senior Engineers and 28,254 (31.26%) are Senior Staffers. Below is a breakdown of the other retiring titles that I queried. 
 
-Within the 90,398 that are eligible for retirement packages, 29,415 (32.2%) are Senior Engineers and 28,254 (31.26%) are Senior Staffers. Below is a breakdown of the other retiring titles that I queried. 
+![retiring_titles_picture](https://user-images.githubusercontent.com/75700317/114116710-25762600-98b3-11eb-8e24-871ecfc3fd73.png)
 
 
 
