@@ -15,25 +15,12 @@ Out of the 300,000 employees at Pewlett Hackard, 90,398 (30.13%) are eligible fo
 ![retiring_titles_picture](https://user-images.githubusercontent.com/75700317/114116710-25762600-98b3-11eb-8e24-871ecfc3fd73.png)
 
 
+**Employees Eligible for Mentorship**
+Looking at the workforce, only 1,940 employees qualify for mentorship oportunities. 
 
-**How is the district summary affected?** 
-The District data did not show any difference which proves consistency in the data. The Passing Math Score is relatively high at 75% as well as the Passing Reading scoresat 86%.
-![district_summary](https://user-images.githubusercontent.com/75700317/112767851-faecb900-8fe6-11eb-8a92-1a7b242a9671.JPG)
-
-
-**How is the school summary affected?**
-The overall School data showed little to no difference, similar to the District data.
 
 ## **Summary:** 
-Upon removing the ninth grade data there showed to be little to no effect on the overall metrics. 
-
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-
-**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
-
-
-**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
-
+Based on the findings of my analysis Pewlett Hackard is will experience over a 30% drop in the coming years due to employee retirement causing a large vacancy across multiple departments, in particular the engineering department. Taking into account the 1,940 employees who qualify for mentorship opportunities, Pewlett Hackard will still face a large deficit in their FTE count. 
 
 
 ## **Entity Relationship Diagram:** 
