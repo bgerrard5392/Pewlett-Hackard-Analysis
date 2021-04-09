@@ -16,6 +16,7 @@ Out of the 300,000 employees at Pewlett Hackard, 90,398 (30.13%) are eligible fo
 
 
 **Employees Eligible for Mentorship**
+
 Looking at the workforce, only 1,940 employees qualify for mentorship oportunities. 
 
 
