@@ -29,6 +29,13 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 ## Entity Relationship Diagram:** 
+![EmployeeDB](https://user-images.githubusercontent.com/75700317/114113882-ae8a5e80-98ad-11eb-93ac-cb9660f0c2c5.png)
+
+
+
+
+
+
 
 
 
