@@ -11,6 +11,7 @@ The purpose of this project is to assist Maria, a City School District Chief Dat
 
 
 ## Results
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 **How is the district summary affected?** 
 The District data did not show any difference which proves consistency in the data. The Passing Math Score is relatively high at 75% as well as the Passing Reading scoresat 86%.
@@ -22,5 +23,9 @@ The overall School data showed little to no difference, similar to the District 
 
 ## **Summary:** 
 Upon removing the ninth grade data there showed to be little to no effect on the overall metrics. 
+
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
